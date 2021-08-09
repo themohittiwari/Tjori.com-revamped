@@ -36,7 +36,7 @@ html{
     justify-content: space-between;
     align-items: center;
     position: fixed;
-    top: -100vh;
+    top: -120vh;
     z-index: 99999999999999999;
     width: 100%;
     min-height: 60vh;
