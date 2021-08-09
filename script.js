@@ -18,7 +18,7 @@ window.addEventListener('scroll', function(e){
 
 floatingIcon.addEventListener('click', function(){
     tl.fromTo('#halfscreennav', 1, {
-        top: '-100vh'
+        top: '-120vh'
     }, {
         top: '0%',
         ease: Expo.easeInOut
@@ -38,7 +38,7 @@ crossOfNav.addEventListener('click', function(){
     tl.fromTo('#halfscreennav', 1, {
         top: '0%'
     }, {
-        top: '-100vh',
+        top: '-120vh',
         ease: Expo.easeInOut
     })
 })
