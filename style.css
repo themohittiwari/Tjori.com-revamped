@@ -914,3 +914,8 @@ html{
     
 }
 
+@media(max-width : 360px){
+    #about {
+        margin-top : 300px;
+    }
+}
